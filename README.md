@@ -42,11 +42,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darlings777&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darlings777&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyabzal&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darlings777&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedbyabzal&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
 </p>
 
 <p align="center">
